@@ -6,12 +6,18 @@ export const styles = StyleSheet.create({
     height: "100%",
   },
   image: {
-    width: '100%',
-    height: 200,
+    height: 150,
+    marginLeft: 'auto',
+    marginRight: 'auto',
+    marginTop: '40%',
   },
   title: {
     fontSize: 40,
     fontWeight: 'bold',
+    // fontFamily: 'OpenSans-Bold',
     textAlign: 'center',
-  }
+    color: '#FFFFFF',
+    letterSpacing: 2,
+    padding: 26,
+},
 });

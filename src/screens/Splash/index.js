@@ -6,7 +6,7 @@ const Splash = () => {
 
   return (
     <View style={styles.container}>
-      <Image style={styles.image} source={require('../../assets/hantel-01 4.png')}/>
+      <Image style={styles.image} source={require('../../assets/hantel-014.png')}/>
       <Text style={styles.title} >TRENNIPÄEVIK</Text>
     </View>
   );
